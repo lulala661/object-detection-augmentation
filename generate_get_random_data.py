@@ -11,13 +11,13 @@ from utils.utils import convert_annotation, get_classes
 #   Origin_VOCdevkit_path   原始数据集所在的路径
 #   Out_VOCdevkit_path      输出数据集所在的路径
 #-----------------------------------------------------------------------------------#
-Origin_VOCdevkit_path   = "VOCdevkit_Origin"
-Out_VOCdevkit_path      = "VOCdevkit"
+Origin_VOCdevkit_path   = "A:/gprMAX/shu_ju_ji/VOC02/"
+Out_VOCdevkit_path      = "A:/gprMAX/shu_ju_ji/VOC05/"
 #-----------------------------------------------------------------------------------#
 #   Out_Num                 生成多少组图片
 #   input_shape             生成的图片大小
 #-----------------------------------------------------------------------------------#
-Out_Num                 = 5
+Out_Num                 = 200
 input_shape             = [640, 640]
 
 #-----------------------------------------------------------------------------------#
